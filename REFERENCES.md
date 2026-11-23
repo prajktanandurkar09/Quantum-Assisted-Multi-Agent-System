@@ -33,9 +33,6 @@
   Optimization by Simulated Annealing.
   Science.
 
-- [Author(s)]. ([Year]).
-  [Title of the paper used on the research slide].
-  [Journal or conference].
 
 ## 4. Python Libraries
 
