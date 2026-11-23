@@ -58,14 +58,7 @@ quantum-assisted-multi-agent-optimization/
 │
 ├── Drones_Notebook/
 │   └── MAPF_Drones_Final.ipynb
-│
-└── results/
-    ├── environment.png
-    ├── 2_drone_simulation.png
-    ├── 5_drone_simulation.png
-    ├── comparison_table.png
-    ├── performance_graphs.png
-    └── test_results.png
+
 ```
 
 *The results folder contains the experiment screenshots and visual outputs included in the repository.*
