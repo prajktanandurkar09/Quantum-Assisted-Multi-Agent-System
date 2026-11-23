@@ -5,10 +5,6 @@
 - Moving AI Lab. Moving AI MAPF Benchmark (map `random-32-32-10` and its scenario files).
   https://movingai.com/benchmarks/mapf/index.html
 
-- Stern, R., et al. (2019).
-  Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks.
-  Proceedings of the Symposium on Combinatorial Search (SoCS).
-
 ## 2. Algorithms and Research Resources
 
 - Hart, P. E., Nilsson, N. J., and Raphael, B. (1968).
