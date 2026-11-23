@@ -57,11 +57,11 @@ Main challenges: collisions, congestion in narrow gaps, conflicting paths, and s
 quantum-assisted-multi-agent-optimization/
 |-- README.md
 |-- Data/
-|   |-- random-32-32-10_map.zip              (or the extracted .map file)
-|   |-- random-32-32-10_map-scen-even.zip    (or the extracted .scen files)
-|   `-- random-32-32-10_map-scen-random.zip  (optional, not used by the notebook)
+|   |-- random-32-32-10_map
+|   |-- random-32-32-10_map-scen-even
+|   `-- random-32-32-10_map-scen-random
 `-- Drones_Notebook/
-    `-- MAPF_Drones_Final.ipynb              (main notebook)
+    `-- MAPF_Drones_Final.ipynb           
 ```
 
 ---
