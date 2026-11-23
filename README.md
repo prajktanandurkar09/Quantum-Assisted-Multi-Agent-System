@@ -61,7 +61,7 @@ quantum-assisted-multi-agent-optimization/
 
 ```
 
-*The results folder contains the experiment screenshots and visual outputs included in the repository.*
+
 
 ---
 
